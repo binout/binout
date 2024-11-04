@@ -5,9 +5,9 @@
 
 - 👨‍💻 All of my talks are available at [http://binout.github.io/](http://binout.github.io/)
 
-- 📝 I regulary write articles on [http://binout.github.io/javaonemorething/](http://binout.github.io/javaonemorething/)
+- 📝 I ~regulary~ used to write articles on [http://binout.github.io/javaonemorething/](http://binout.github.io/javaonemorething/)
 
-- 💬 Ask me about **Java, Kotlin, Spring, TDD, DDD**
+- 💬 Ask me about **Java, Kotlin, Python, TDD, DDD**
 
 - 📄 Know about my experiences [http://binout.github.io/resume.html](http://binout.github.io/resume.html)
 
